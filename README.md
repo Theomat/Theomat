@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Theomat
-- 👀 I’m interested in **Program Synthesis**
-- 🌱 I’m currently a PhD Student (see my website for more information)
+- 👋 Hi, I’m Théo Matricon
+- 👀 I’m interested in **Program Synthesis** also known as **code generation**
+- 🌱 I’m currently a 2nd year PhD Student in Bordeaux
+- See my [website](http://theomat.github.io/) for more information
 
 <!---
 Theomat/Theomat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
