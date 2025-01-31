@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Théo Matricon
 - 👀 I’m interested in **Program Synthesis** also known as **code generation**
-- 🌱 I’m currently a  3rd year PhD Student in Bordeaux
+- 🌱 I’m currently a  Postdoc at INRIA Rennes in the DiverSE team
 - See my [website](http://theomat.github.io/) for more information
 
 <!---
